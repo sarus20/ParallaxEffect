@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ParallaxEffect/static/css/main.709bf579.chunk.css",
+    "main.js": "/ParallaxEffect/static/js/main.1f973f03.chunk.js",
+    "main.js.map": "/ParallaxEffect/static/js/main.1f973f03.chunk.js.map",
+    "runtime-main.js": "/ParallaxEffect/static/js/runtime-main.aa767b3b.js",
+    "runtime-main.js.map": "/ParallaxEffect/static/js/runtime-main.aa767b3b.js.map",
+    "static/js/2.e0ffb21a.chunk.js": "/ParallaxEffect/static/js/2.e0ffb21a.chunk.js",
+    "static/js/2.e0ffb21a.chunk.js.map": "/ParallaxEffect/static/js/2.e0ffb21a.chunk.js.map",
+    "index.html": "/ParallaxEffect/index.html",
+    "precache-manifest.140245510cdc67d86e086ca8dcd8bada.js": "/ParallaxEffect/precache-manifest.140245510cdc67d86e086ca8dcd8bada.js",
+    "service-worker.js": "/ParallaxEffect/service-worker.js",
+    "static/css/main.709bf579.chunk.css.map": "/ParallaxEffect/static/css/main.709bf579.chunk.css.map",
+    "static/js/2.e0ffb21a.chunk.js.LICENSE.txt": "/ParallaxEffect/static/js/2.e0ffb21a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa767b3b.js",
+    "static/js/2.e0ffb21a.chunk.js",
+    "static/css/main.709bf579.chunk.css",
+    "static/js/main.1f973f03.chunk.js"
+  ]
+}
